@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Sejam bem vindos ao meu Github!</h2>
+<h2 align="center">👋 Olá! Sou Félix Panzo, Angolano residente em Luanda, atualmente em transição de carreira para a área de tecnologia, com foco no desenvolvimento back-end em Java. Tenho me dedicado ao estudo de programação orientada a objetos, algoritmos, estruturas de dados e boas práticas de codificação, com o objetivo de construir soluções robustas e escaláveis. estou em busca de oportunidades para aplicar meus conhecimentos, evoluir com projetos reais e contribuir ativamente com o time de tecnologia de uma empresa inovadora.!</h2>
 
 ###
 
